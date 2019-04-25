@@ -4,6 +4,7 @@ In this experiment we are going to predict the number of Indonesian athletes tha
 ## Requirements
 - Python
         Extensions:
+        
         - Dash
         - matplotlib
         - numpy

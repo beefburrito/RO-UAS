@@ -3,12 +3,11 @@
 In this experiment we are going to predict the number of Indonesian athletes that will win the olympic medal
 ## Requirements
 - Python
-        Extensions:
-        
-        - Dash
-        - matplotlib
-        - numpy
-        - pandas
+- Extensions:
+  - Dash
+  - matplotlib
+  - numpy
+  - pandas
 
 For my experiment I used visual studio code for my IDE 
 To install the extension type in this case dash

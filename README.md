@@ -39,6 +39,7 @@ We calculate using equation
 
 Where our result is
 0.604
+
 Since its less than 1 it's quite accurate in measuring how much medals Indonesia will
 get in each year. 
 

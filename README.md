@@ -45,4 +45,4 @@ get in each year.
 ## Conclusion
 
 The data we use in predicting Indonesia's future olympic success is accurate
-though there are probably more than one factor than just year in my opinion since I believe the medals won can increase exponentially
+though there are probably more than one factor than just year in my opinion since I believe the medals won can increase exponentially. Though maybe in the next decade the estimation should be around those numbers

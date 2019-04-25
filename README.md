@@ -1,4 +1,5 @@
 # RO-UAS
+# By: Eugene Sebastian, Nicholas Chen, Sutedeja     
 
 In this experiment we are going to predict the number of Indonesian athletes that will win the olympic medal
 ## Requirements

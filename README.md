@@ -9,7 +9,7 @@ In this experiment we are going to predict the number of Indonesian athletes tha
   - numpy
   - pandas
 
-For my experiment I used visual studio code for my IDE 
+For my experiment I used [visual studio code for my IDE](https://code.visualstudio.com/download) 
 To install the extension type in this case dash
 ```
 pip -install dash

@@ -33,7 +33,7 @@ y = 1/30 x
 Since it is created by line of best fit there are some uncertainties thus we need to calculate the MAE(Mean Average Error)
 
 We calculate using equation 
-![MAE](we.png)
+![MAE](we.PNG)
 Where our result is
 0.604
 Since its less than 1 it's quite accurate in measuring how much medals Indonesia will

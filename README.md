@@ -12,6 +12,7 @@ In this experiment we are going to predict the number of Indonesian athletes tha
 
 For my experiment I used [visual studio code for my IDE](https://code.visualstudio.com/download) 
 To install the extension type in this case dash
+
 You also need the csv file which can be gotten from [kaggle](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)
 ```
 pip -install dash

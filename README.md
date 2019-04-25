@@ -16,7 +16,7 @@ pip -install dash
 ```
 ## Other Data
 ![Particpant](part.png)
-![Pie](pie.png)
+![Pie](pie.PNG)
 These data are used to show amount of medals won throughout the year as well as in which sport they have won in, in this case only Badminton.
 
 ## Linear Regression
